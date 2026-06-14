@@ -1,0 +1,6 @@
+Department,Total_Employees,Working_Days,Attendance_Pct,Absenteeism_Pct,Leave_Pct,WFH_Pct
+Engineering,10,262,85.46,6.56,7.98,20.27
+Operations,15,262,83.84,7.81,8.35,19.06
+Sales,19,262,83.19,7.65,9.16,18.88
+HR,11,262,82.03,8.43,9.54,18.49
+Finance,25,262,81.31,8.9,9.79,18.7

@@ -1,0 +1,81 @@
+Employee_ID,Name,Department,Designation,Total_Days,Days_Present,Days_Absent,Days_Leave,Days_WFH,Attendance_Pct,Risk_Flag
+EMP001,Employee_1,Finance,Junior,262,223,25,14,47,85.11,🟢 Good
+EMP002,Employee_2,Operations,Junior,262,242,8,12,59,92.37,🟢 Good
+EMP003,Employee_3,HR,Junior,262,226,17,19,54,86.26,🟢 Good
+EMP004,Employee_4,Operations,Junior,262,187,44,31,43,71.37,🔴 High Risk
+EMP005,Employee_5,Operations,Senior,262,234,10,18,49,89.31,🟢 Good
+EMP006,Employee_6,Sales,Senior,262,203,21,38,45,77.48,🟡 Medium
+EMP007,Employee_7,HR,Junior,262,197,28,37,42,75.19,🟡 Medium
+EMP008,Employee_8,HR,Junior,262,239,11,12,53,91.22,🟢 Good
+EMP009,Employee_9,HR,Junior,262,179,51,32,41,68.32,🔴 High Risk
+EMP010,Employee_10,Operations,Lead,262,242,11,9,53,92.37,🟢 Good
+EMP011,Employee_11,Finance,Lead,262,221,16,25,48,84.35,🟡 Medium
+EMP012,Employee_12,HR,Senior,262,233,17,12,61,88.93,🟢 Good
+EMP013,Employee_13,Operations,Manager,262,196,33,33,45,74.81,🔴 High Risk
+EMP014,Employee_14,Sales,Senior,262,218,26,18,41,83.21,🟡 Medium
+EMP015,Employee_15,Finance,Manager,262,211,26,25,48,80.53,🟡 Medium
+EMP016,Employee_16,Sales,Lead,262,234,8,20,52,89.31,🟢 Good
+EMP017,Employee_17,Finance,Senior,262,249,4,9,43,95.04,🟢 Good
+EMP018,Employee_18,Operations,Junior,262,212,23,27,38,80.92,🟡 Medium
+EMP019,Employee_19,Engineering,Senior,262,220,18,24,45,83.97,🟡 Medium
+EMP020,Employee_20,Finance,Senior,262,244,9,9,57,93.13,🟢 Good
+EMP021,Employee_21,Sales,Senior,262,225,14,23,57,85.88,🟢 Good
+EMP022,Employee_22,Operations,Senior,262,230,18,14,51,87.79,🟢 Good
+EMP023,Employee_23,Finance,Junior,262,181,41,40,40,69.08,🔴 High Risk
+EMP024,Employee_24,Engineering,Senior,262,247,4,11,61,94.27,🟢 Good
+EMP025,Employee_25,Engineering,Senior,262,201,33,28,44,76.72,🟡 Medium
+EMP026,Employee_26,HR,Manager,262,201,25,36,41,76.72,🟡 Medium
+EMP027,Employee_27,HR,Lead,262,226,9,27,59,86.26,🟢 Good
+EMP028,Employee_28,Sales,Lead,262,216,21,25,47,82.44,🟡 Medium
+EMP029,Employee_29,Finance,Junior,262,233,8,21,54,88.93,🟢 Good
+EMP030,Employee_30,Finance,Junior,262,201,26,35,47,76.72,🟡 Medium
+EMP031,Employee_31,HR,Junior,262,236,11,15,54,90.08,🟢 Good
+EMP032,Employee_32,Finance,Lead,262,208,22,32,47,79.39,🟡 Medium
+EMP033,Employee_33,Finance,Junior,262,195,30,37,39,74.43,🔴 High Risk
+EMP034,Employee_34,Engineering,Senior,262,236,12,14,56,90.08,🟢 Good
+EMP035,Employee_35,HR,Junior,262,226,9,27,36,86.26,🟢 Good
+EMP036,Employee_36,Operations,Lead,262,240,5,17,64,91.6,🟢 Good
+EMP037,Employee_37,HR,Senior,262,195,36,31,55,74.43,🔴 High Risk
+EMP038,Employee_38,Operations,Senior,262,240,3,19,52,91.6,🟢 Good
+EMP039,Employee_39,Engineering,Senior,262,252,2,8,71,96.18,🟢 Good
+EMP040,Employee_40,Sales,Junior,262,186,38,38,36,70.99,🔴 High Risk
+EMP041,Employee_41,Finance,Senior,262,193,35,34,42,73.66,🔴 High Risk
+EMP042,Employee_42,Engineering,Senior,262,244,2,16,58,93.13,🟢 Good
+EMP043,Employee_43,Finance,Junior,262,227,9,26,65,86.64,🟢 Good
+EMP044,Employee_44,Sales,Manager,262,235,7,20,53,89.69,🟢 Good
+EMP045,Employee_45,Sales,Senior,262,218,23,21,56,83.21,🟡 Medium
+EMP046,Employee_46,Engineering,Senior,262,210,27,25,40,80.15,🟡 Medium
+EMP047,Employee_47,Sales,Lead,262,232,6,24,41,88.55,🟢 Good
+EMP048,Employee_48,Operations,Senior,262,223,23,16,61,85.11,🟢 Good
+EMP049,Employee_49,Sales,Junior,262,242,4,16,55,92.37,🟢 Good
+EMP050,Employee_50,Finance,Junior,262,234,12,16,59,89.31,🟢 Good
+EMP051,Employee_51,Finance,Senior,262,241,5,16,62,91.98,🟢 Good
+EMP052,Employee_52,Finance,Junior,262,198,29,35,45,75.57,🟡 Medium
+EMP053,Employee_53,Finance,Senior,262,209,24,29,39,79.77,🟡 Medium
+EMP054,Employee_54,Operations,Lead,262,202,39,21,38,77.1,🟡 Medium
+EMP055,Employee_55,HR,Junior,262,206,29,27,37,78.63,🟡 Medium
+EMP056,Employee_56,Engineering,Junior,262,208,24,30,43,79.39,🟡 Medium
+EMP057,Employee_57,Finance,Senior,262,206,32,24,54,78.63,🟡 Medium
+EMP058,Employee_58,Sales,Manager,262,199,33,30,54,75.95,🟡 Medium
+EMP059,Employee_59,Finance,Junior,262,195,35,32,45,74.43,🔴 High Risk
+EMP060,Employee_60,Sales,Senior,262,232,11,19,61,88.55,🟢 Good
+EMP061,Employee_61,Sales,Junior,262,191,36,35,41,72.9,🔴 High Risk
+EMP062,Employee_62,Finance,Senior,262,220,16,26,54,83.97,🟡 Medium
+EMP063,Employee_63,Operations,Junior,262,216,21,25,45,82.44,🟡 Medium
+EMP064,Employee_64,Sales,Junior,262,215,28,19,54,82.06,🟡 Medium
+EMP065,Employee_65,Sales,Senior,262,226,20,16,58,86.26,🟢 Good
+EMP066,Employee_66,Finance,Senior,262,203,29,30,44,77.48,🟡 Medium
+EMP067,Employee_67,Sales,Senior,262,210,27,25,47,80.15,🟡 Medium
+EMP068,Employee_68,Sales,Junior,262,203,34,25,43,77.48,🟡 Medium
+EMP069,Employee_69,Finance,Junior,262,190,43,29,45,72.52,🔴 High Risk
+EMP070,Employee_70,Finance,Junior,262,225,16,21,43,85.88,🟢 Good
+EMP071,Employee_71,Engineering,Junior,262,185,42,35,57,70.61,🔴 High Risk
+EMP072,Employee_72,Operations,Senior,262,219,15,28,54,83.59,🟡 Medium
+EMP073,Employee_73,Operations,Senior,262,194,34,34,53,74.05,🔴 High Risk
+EMP074,Employee_74,Sales,Junior,262,235,3,24,57,89.69,🟢 Good
+EMP075,Employee_75,Operations,Junior,262,218,20,24,44,83.21,🟡 Medium
+EMP076,Employee_76,Sales,Junior,262,221,21,20,42,84.35,🟡 Medium
+EMP077,Employee_77,Engineering,Senior,262,236,8,18,56,90.08,🟢 Good
+EMP078,Employee_78,Finance,Lead,262,217,29,16,55,82.82,🟡 Medium
+EMP079,Employee_79,Finance,Junior,262,195,35,32,49,74.43,🔴 High Risk
+EMP080,Employee_80,Finance,Manager,262,207,27,28,54,79.01,🟡 Medium
